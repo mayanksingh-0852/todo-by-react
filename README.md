@@ -17,9 +17,9 @@ This is a Todo List application built using React.js. It allows users to manage 
 * Clean and responsive UI
 
 ## Tech Stack
-*React.js
-*JavaScript
-*Tailwind CSS
+*React.js*
+*JavaScript*
+*Tailwind CSS*
 
 ## Concepts Used
 
