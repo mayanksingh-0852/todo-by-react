@@ -54,4 +54,4 @@ src/
 
 ## Author
 
-Mayank Singh
+Mayank Kumar 
