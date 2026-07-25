@@ -3,11 +3,11 @@ A React-based Todo List app using Context API for global state management. Users
 
 
 
-
+## Overview
 
 This is a Todo List application built using React.js. It allows users to manage daily tasks efficiently with features like add, update, delete, and mark as completed. The app uses localStorage to store data so that tasks remain even after page refresh.
 
-## Features
+
 
 * Add new todos
 * Edit existing todos
